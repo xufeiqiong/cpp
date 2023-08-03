@@ -1,3 +1,4 @@
+//新的类含有类成员和父类时候，构造：父类、类成员类、类本身 析构：类本身 类成员类、父类
 #include <iostream>
 using namespace std;
 class A {
